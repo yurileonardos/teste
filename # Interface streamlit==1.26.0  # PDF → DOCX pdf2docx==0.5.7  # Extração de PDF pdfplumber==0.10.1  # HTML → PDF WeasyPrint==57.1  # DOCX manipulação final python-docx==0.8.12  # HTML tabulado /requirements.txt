@@ -1,0 +1,27 @@
+# Interface
+streamlit==1.26.0
+
+# PDF → DOCX
+pdf2docx==0.5.7
+
+# Extração de PDF
+pdfplumber==0.10.1
+
+# HTML → PDF
+WeasyPrint==57.1
+
+# DOCX manipulação final
+python-docx==0.8.12
+
+# HTML tabulado / parsing
+beautifulsoup4==4.12.2
+html5lib==1.1
+
+# Conversão DOCX → HTML
+mammoth==1.5.1
+
+# Imagens
+pillow==10.1.0
+
+# Extras (recomendados no Streamlit Cloud)
+numpy==1.26.4
